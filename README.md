@@ -19,6 +19,7 @@ Overall, this insurance management system provides a comprehensive solution for 
 
 **Structure of Project**
 insurance-management-system/
+
 ├── src/
 │   ├── main/
 │   │   ├── java/
